@@ -1,5 +1,5 @@
 # new gun config（zsh）
-This repo includes own configs and related plugins that I can init device quickly.
+This repo includes own configs and related plugins when I get new weapon that can use.
 ## Installment
 - install zsh with command
 - get oh-my-zsh via   
