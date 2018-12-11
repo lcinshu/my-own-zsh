@@ -14,5 +14,4 @@ git clone this repo and replace
 ## reference   
 
 [oh-my-zsh](https://raw.githubusercontent.com/robbyrussell/oh-my-zsh) 
-
 [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 
