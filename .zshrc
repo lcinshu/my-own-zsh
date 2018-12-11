@@ -66,6 +66,9 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+# export PATH for most app
+export PATH=/bin:/usr/bin:/usr/local/bin:$PATH
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
